@@ -1,3 +1,4 @@
 myfile1 : First file
+newFeature: First Change
 
 Bugger Changelist change

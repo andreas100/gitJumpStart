@@ -1,7 +1,3 @@
 mfile2 : Second file
 Checking stuff out...
 newFeature: Second Change
-
-Changed in IDEA
-
-master change

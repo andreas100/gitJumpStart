@@ -1,14 +1,4 @@
 mfile2 : Second file
 Checking stuff out...
 newFeature: Second Change
-
-
-Added some shit
-
-Added some shit
-
-Added some shit
-
-Added some shit
-
-Remote Branch Test............
+remoteBranchTest more changes
